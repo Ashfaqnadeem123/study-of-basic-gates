@@ -1,5 +1,9 @@
 **EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog**
+
+
 developed by:Mohammed Ashfaq Nadeem A
+
+
 Reg no:24000199
 ### study-of-basic-gates
 
@@ -73,7 +77,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  
 **Logic symbol & Truthtable**
-https://www.maximintegrated.com/en/glossary/definitions.mvp/term/NAND%20Gate/gpk/1203
+![Screenshot 2024-11-13 111659](https://github.com/user-attachments/assets/c19e6799-0b51-4b9e-b093-e6a57356cffe)
+
 
 **RTL realization Output:** 
 ![Screenshot 2024-11-13 104511](https://github.com/user-attachments/assets/a41f01c5-f41c-48ee-a0e3-d42fe1e3c720)
