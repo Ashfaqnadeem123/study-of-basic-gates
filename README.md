@@ -5,7 +5,7 @@ developed by:Mohammed Ashfaq Nadeem A
 
 
 Reg no:24000199
-### study-of-basic-gates
+
 
 **AIM:** 
 
