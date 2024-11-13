@@ -1,3 +1,6 @@
+**EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog**
+developed by:Mohammed Ashfaq Nadeem A
+Reg no:24000199
 ### study-of-basic-gates
 
 **AIM:** 
@@ -63,17 +66,24 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2024-11-13 105321](https://github.com/user-attachments/assets/1ce4d0d1-8d80-41db-b5d7-d645149f0597)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+
  
 **Logic symbol & Truthtable**
+https://www.maximintegrated.com/en/glossary/definitions.mvp/term/NAND%20Gate/gpk/1203
 
 **RTL realization Output:** 
+![Screenshot 2024-11-13 104511](https://github.com/user-attachments/assets/a41f01c5-f41c-48ee-a0e3-d42fe1e3c720)
+
 
 **RTL**
+![Screenshot 2024-11-13 110845](https://github.com/user-attachments/assets/3e4d9645-a07e-40e3-b7a4-d12afdce2900)
+
 
 **Result:**
+Thus the truth table of logic gates in Quartus II using Verilog programming was studied and verified.
 
 
