@@ -1,4 +1,4 @@
-**EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog**
+
 
 
 developed by:Mohammed Ashfaq Nadeem A
@@ -70,22 +70,26 @@ Y= A⊕B
 
 
 **PROGRAM**
-![Screenshot 2024-11-13 105321](https://github.com/user-attachments/assets/1ce4d0d1-8d80-41db-b5d7-d645149f0597)
+ module EXP1(a,b,y1,y2,y3,y4,y5,y6,y7); input a,b; output y1,y2,y3,y4,y5,y6,y7; and g1(y1,a,b); or g2(y2,a,b); not g3(y3,a); nand g4(y4,a,b); nor g5(y5,a,b); xor g6(y6,a,b); xnor g7(y7,a,b); endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 
  
 **Logic symbol & Truthtable**
-![Screenshot 2024-11-13 111659](https://github.com/user-attachments/assets/c19e6799-0b51-4b9e-b093-e6a57356cffe)
+
+![WhatsApp Image 2024-11-20 at 11 36 29_e2030576](https://github.com/user-attachments/assets/47c5b35a-f53f-4dec-b517-951fb510de89)
+
 
 
 **RTL realization Output:** 
-![Screenshot 2024-11-13 104511](https://github.com/user-attachments/assets/a41f01c5-f41c-48ee-a0e3-d42fe1e3c720)
+
+![WhatsApp Image 2024-11-14 at 11 25 17_69baadca](https://github.com/user-attachments/assets/07ef8918-a06a-4a24-951d-3ca65db2c002)
 
 
 **RTL**
-![Screenshot 2024-11-13 110845](https://github.com/user-attachments/assets/3e4d9645-a07e-40e3-b7a4-d12afdce2900)
+
+![Screenshot 2024-11-14 110617](https://github.com/user-attachments/assets/995766ee-df30-42f3-a530-6451816d679f)
 
 
 **Result:**
